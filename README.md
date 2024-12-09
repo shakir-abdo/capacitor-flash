@@ -2,7 +2,8 @@
   <a href="https://capgo.app/"><img src='https://raw.githubusercontent.com/Cap-go/capgo/main/assets/capgo_banner.png' alt='Capgo - Instant updates for capacitor'/></a>
 
 <div align="center">
-<h2><a href="https://capgo.app/">Check out: Capgo — Instant updates for capacitor</a></h2>
+  <h2><a href="https://capgo.app/?ref=plugin"> ➡️ Get Instant updates for your App with Capgo 🚀</a></h2>
+  <h2><a href="https://capgo.app/consulting/?ref=plugin"> Fix your annoying bug now, Hire a Capacitor expert 💪</a></h2>
 </div>
 
 Switch the Flashlight / Torch of your device.
@@ -49,12 +50,12 @@ Works out of the box
 ### isAvailable()
 
 ```typescript
-isAvailable() => Promise<{ value: boolean; }>
+isAvailable() => any
 ```
 
 Checks if flashlight is available
 
-**Returns:** <code>Promise&lt;{ value: boolean; }&gt;</code>
+**Returns:** <code>any</code>
 
 --------------------
 
@@ -62,7 +63,7 @@ Checks if flashlight is available
 ### switchOn(...)
 
 ```typescript
-switchOn(options: { intensity?: number; }) => Promise<void>
+switchOn(options: { intensity?: number; }) => any
 ```
 
 Turns the flashlight on
@@ -71,16 +72,20 @@ Turns the flashlight on
 | ------------- | ------------------------------------ |
 | **`options`** | <code>{ intensity?: number; }</code> |
 
+**Returns:** <code>any</code>
+
 --------------------
 
 
 ### switchOff()
 
 ```typescript
-switchOff() => Promise<void>
+switchOff() => any
 ```
 
 Turns the flashlight off
+
+**Returns:** <code>any</code>
 
 --------------------
 
@@ -88,12 +93,12 @@ Turns the flashlight off
 ### isSwitchedOn()
 
 ```typescript
-isSwitchedOn() => Promise<{ value: boolean; }>
+isSwitchedOn() => any
 ```
 
 Checks if the flashlight is turned on or off
 
-**Returns:** <code>Promise&lt;{ value: boolean; }&gt;</code>
+**Returns:** <code>any</code>
 
 --------------------
 
@@ -101,12 +106,12 @@ Checks if the flashlight is turned on or off
 ### toggle()
 
 ```typescript
-toggle() => Promise<{ value: boolean; }>
+toggle() => any
 ```
 
 Toggle the flashlight
 
-**Returns:** <code>Promise&lt;{ value: boolean; }&gt;</code>
+**Returns:** <code>any</code>
 
 --------------------
 

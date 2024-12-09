@@ -2,6 +2,203 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [6.0.7](https://github.com/riderx/capacitor-flash/compare/6.0.6...6.0.7) (2024-12-09)
+
+### [6.0.6](https://github.com/riderx/capacitor-flash/compare/6.0.5...6.0.6) (2024-12-09)
+
+### [6.0.5](https://github.com/riderx/capacitor-flash/compare/6.0.4...6.0.5) (2024-12-02)
+
+### [6.0.4](https://github.com/riderx/capacitor-flash/compare/6.0.3...6.0.4) (2024-12-02)
+
+### [6.0.3](https://github.com/riderx/capacitor-flash/compare/6.0.2...6.0.3) (2024-09-05)
+
+### [6.0.2](https://github.com/riderx/capacitor-flash/compare/6.0.1...6.0.2) (2024-08-01)
+
+### [6.0.1](https://github.com/riderx/capacitor-flash/compare/6.0.0...6.0.1) (2024-08-01)
+
+
+### Bug Fixes
+
+* IPad isAvailable check incorrect return value ([c741757](https://github.com/riderx/capacitor-flash/commit/c7417574ef027e959f8b132f21acf16c9d3f6ecf))
+
+## [6.0.0](https://github.com/riderx/capacitor-flash/compare/2.0.14...6.0.0) (2024-04-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* upgrade to v6
+
+### Features
+
+* upgrade to v6 ([9513522](https://github.com/riderx/capacitor-flash/commit/9513522a95b9cc9ce70fe9f3ccff3efa57f22945))
+
+
+### Bug Fixes
+
+* pnpm ci ([360a7ff](https://github.com/riderx/capacitor-flash/commit/360a7ff8481def0782f478ff673d083712d2a873))
+
+### [2.0.14](https://github.com/riderx/capacitor-flash/compare/2.0.13...2.0.14) (2023-10-09)
+
+### [2.0.13](https://github.com/riderx/capacitor-flash/compare/2.0.12...2.0.13) (2023-08-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.android.tools.build:gradle to v8.1.1 ([3aac983](https://github.com/riderx/capacitor-flash/commit/3aac983c557bf248fd48e5d1779f1592fa982dd3))
+
+### [2.0.12](https://github.com/riderx/capacitor-flash/compare/2.0.11...2.0.12) (2023-08-21)
+
+### [2.0.11](https://github.com/riderx/capacitor-flash/compare/2.0.10...2.0.11) (2023-07-31)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.android.tools.build:gradle to v8.1.0 ([6e12deb](https://github.com/riderx/capacitor-flash/commit/6e12deb549dc36e68110585f42b08105fff61321))
+
+### [2.0.10](https://github.com/riderx/capacitor-flash/compare/2.0.9...2.0.10) (2023-07-17)
+
+### [2.0.9](https://github.com/riderx/capacitor-flash/compare/2.0.8...2.0.9) (2023-07-03)
+
+### [2.0.8](https://github.com/riderx/capacitor-flash/compare/v2.0.2...v2.0.8) (2023-06-01)
+
+
+### Bug Fixes
+
+* bump ([83c6424](https://github.com/riderx/capacitor-flash/commit/83c64247b26f8e5861023a0e0a5d0faafe338e78))
+* ci name ([4f1e445](https://github.com/riderx/capacitor-flash/commit/4f1e4454f311a6c7aa3ee3c817725a38a5003137))
+* **deps:** update dependency com.android.tools.build:gradle to v8.0.2 ([b879cae](https://github.com/riderx/capacitor-flash/commit/b879caed8f98de03e9afcd6ba10e39bdbbd8b76a))
+* remove docgen api ([56f9921](https://github.com/riderx/capacitor-flash/commit/56f992125e652130a864a3b827014a6848802d3e))
+
+### [2.0.7](https://github.com/riderx/capacitor-flash/compare/v2.0.2...v2.0.7) (2023-05-29)
+
+
+### Bug Fixes
+
+* bump ([83c6424](https://github.com/riderx/capacitor-flash/commit/83c64247b26f8e5861023a0e0a5d0faafe338e78))
+* ci name ([4f1e445](https://github.com/riderx/capacitor-flash/commit/4f1e4454f311a6c7aa3ee3c817725a38a5003137))
+* **deps:** update dependency com.android.tools.build:gradle to v8.0.2 ([b879cae](https://github.com/riderx/capacitor-flash/commit/b879caed8f98de03e9afcd6ba10e39bdbbd8b76a))
+* remove docgen api ([56f9921](https://github.com/riderx/capacitor-flash/commit/56f992125e652130a864a3b827014a6848802d3e))
+
+### [2.0.6](https://github.com/riderx/capacitor-flash/compare/v2.0.2...v2.0.6) (2023-05-22)
+
+
+### Bug Fixes
+
+* bump ([83c6424](https://github.com/riderx/capacitor-flash/commit/83c64247b26f8e5861023a0e0a5d0faafe338e78))
+* ci name ([4f1e445](https://github.com/riderx/capacitor-flash/commit/4f1e4454f311a6c7aa3ee3c817725a38a5003137))
+* remove docgen api ([56f9921](https://github.com/riderx/capacitor-flash/commit/56f992125e652130a864a3b827014a6848802d3e))
+
+### [2.0.5](https://github.com/riderx/capacitor-flash/compare/v2.0.2...v2.0.5) (2023-05-22)
+
+
+### Bug Fixes
+
+* bump ([83c6424](https://github.com/riderx/capacitor-flash/commit/83c64247b26f8e5861023a0e0a5d0faafe338e78))
+* remove docgen api ([56f9921](https://github.com/riderx/capacitor-flash/commit/56f992125e652130a864a3b827014a6848802d3e))
+
+### [2.0.4](https://github.com/riderx/capacitor-flash/compare/v2.0.2...v2.0.4) (2023-05-22)
+
+
+### Bug Fixes
+
+* bump ([83c6424](https://github.com/riderx/capacitor-flash/commit/83c64247b26f8e5861023a0e0a5d0faafe338e78))
+* remove docgen api ([56f9921](https://github.com/riderx/capacitor-flash/commit/56f992125e652130a864a3b827014a6848802d3e))
+
+### [2.0.3](https://github.com/riderx/capacitor-flash/compare/v2.0.2...v2.0.3) (2023-05-22)
+
+
+### Bug Fixes
+
+* bump ([83c6424](https://github.com/riderx/capacitor-flash/commit/83c64247b26f8e5861023a0e0a5d0faafe338e78))
+* remove docgen api ([56f9921](https://github.com/riderx/capacitor-flash/commit/56f992125e652130a864a3b827014a6848802d3e))
+
+### [2.0.2](https://github.com/riderx/capacitor-flash/compare/v2.0.1...v2.0.2) (2023-05-22)
+
+
+### Bug Fixes
+
+* test android ([1cea370](https://github.com/riderx/capacitor-flash/commit/1cea37096b2997dbe713279d8612dc6161b5a092))
+
+### [2.0.1](https://github.com/riderx/capacitor-flash/compare/v2.0.0...v2.0.1) (2023-05-22)
+
+
+### Bug Fixes
+
+* android build ([c29c7f2](https://github.com/riderx/capacitor-flash/commit/c29c7f2e81a9ebf3744a1551ac825e7bc1092904))
+
+## [2.0.0](https://github.com/riderx/capacitor-flash/compare/v1.2.27...v2.0.0) (2023-05-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* capacitor 5
+
+### Features
+
+* capacitor 5 ([53d3aff](https://github.com/riderx/capacitor-flash/commit/53d3affba5cf6f2212700ce009d453fd8b10c71b))
+
+### [1.2.27](https://github.com/riderx/capacitor-flash/compare/v1.2.26...v1.2.27) (2023-01-04)
+
+### [1.2.26](https://github.com/riderx/capacitor-flash/compare/v1.2.25...v1.2.26) (2023-01-02)
+
+### [1.2.25](https://github.com/riderx/capacitor-flash/compare/v1.2.24...v1.2.25) (2022-12-19)
+
+### [1.2.24](https://github.com/riderx/capacitor-flash/compare/v1.2.23...v1.2.24) (2022-12-12)
+
+### [1.2.23](https://github.com/riderx/capacitor-flash/compare/v1.2.22...v1.2.23) (2022-12-03)
+
+### [1.2.22](https://github.com/riderx/capacitor-flash/compare/v1.2.21...v1.2.22) (2022-12-03)
+
+### [1.2.21](https://github.com/riderx/capacitor-flash/compare/v1.2.20...v1.2.21) (2022-11-30)
+
+### [1.2.20](https://github.com/riderx/capacitor-flash/compare/v1.2.19...v1.2.20) (2022-11-24)
+
+### [1.2.19](https://github.com/riderx/capacitor-flash/compare/v1.2.18...v1.2.19) (2022-11-22)
+
+### [1.2.18](https://github.com/riderx/capacitor-flash/compare/v1.2.17...v1.2.18) (2022-11-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.android.tools.build:gradle to v7.3.1 ([2a281c8](https://github.com/riderx/capacitor-flash/commit/2a281c83fda02da04cbf1bc0571c06c1e045721e))
+
+### [1.2.17](https://github.com/riderx/capacitor-flash/compare/v1.2.16...v1.2.17) (2022-11-22)
+
+### [1.2.16](https://github.com/riderx/capacitor-flash/compare/v1.2.15...v1.2.16) (2022-11-11)
+
+
+### Bug Fixes
+
+* ios build ([88831f6](https://github.com/riderx/capacitor-flash/commit/88831f6f482ebe6892c582e7ca314c73a22b0613))
+
+### [1.2.15](https://github.com/riderx/capacitor-flash/compare/v1.2.14...v1.2.15) (2022-11-11)
+
+
+### Bug Fixes
+
+* build issue ios ([169d413](https://github.com/riderx/capacitor-flash/commit/169d4139ef37baa9813aca2832e8da6ad9378ad2))
+
+### [1.2.14](https://github.com/riderx/capacitor-flash/compare/v1.2.13...v1.2.14) (2022-11-11)
+
+
+### Bug Fixes
+
+* android build ([3a919ca](https://github.com/riderx/capacitor-flash/commit/3a919ca16224e32f98d38f43ac63501aec0abd85))
+
+### [1.2.13](https://github.com/riderx/capacitor-flash/compare/v1.2.12...v1.2.13) (2022-11-11)
+
+
+### Bug Fixes
+
+* build format ([78df6c9](https://github.com/riderx/capacitor-flash/commit/78df6c950fa148df1ad9e23d00c6bf0652fc5da1))
+
+### [1.2.12](https://github.com/riderx/capacitor-flash/compare/v1.2.11...v1.2.12) (2022-11-11)
+
+
+### Bug Fixes
+
+* add build ci step ([422080e](https://github.com/riderx/capacitor-flash/commit/422080e507ff702d5440f35d2c431a71f2786618))
+
 ### [1.2.11](https://github.com/riderx/capacitor-flash/compare/v1.2.10...v1.2.11) (2022-08-29)
 
 
